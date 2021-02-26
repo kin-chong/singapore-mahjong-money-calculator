@@ -8,15 +8,17 @@ Just download the programme and get started!
 
 ### Prerequisites
 
-Only Python 3 is needed.
+Only two pieces of software are needed.
 
 ```
 Python 3
+Visual Studio Code
 ```
 
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Source code editor
+* [Python](https://www.python.org/) - Language used to code
 
 ## Authors
 
