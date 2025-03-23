@@ -22,7 +22,7 @@ Visual Studio Code
 
 ## Authors
 
-* **Low Kin Chong** 
+* **Casey Low Jian Cong** 
 
 ## Acknowledgments
 
